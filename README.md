@@ -22,6 +22,7 @@ This project implements a **SAT Solver** using the **DPLL (Davis-Putnam-Logemann
 - `main.cpp` - In this file you can put data for the sudoku that you want to solve
 
 ## Run
+First download the zip file and unzip it. Now go to that directory and run following commands.
 
 ```
 g++ -o sat_solver main.cpp sat_solver.cpp encode_sudoku.cpp -std=c++11
